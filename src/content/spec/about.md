@@ -3,4 +3,4 @@ This is my personal website for my blogs and projects that I want to share with 
 
 > ### Credits
 > - Credits to saicaca for the website template
-    ::github{repo="saicaca/fuwari"}
+::github{repo="saicaca/fuwari"}
