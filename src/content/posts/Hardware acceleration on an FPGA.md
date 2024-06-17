@@ -1,5 +1,5 @@
 ---
-title: Draft Example
+title: Hardware Acceleration on an FPGA
 published: 2024-06-17
 tags: [FPGA, KNN, AI]
 category: Examples
