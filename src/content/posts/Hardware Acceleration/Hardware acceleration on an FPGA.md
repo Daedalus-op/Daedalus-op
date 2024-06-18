@@ -32,7 +32,7 @@ This is a post to document our project on an FPGA board. We are going to use an 
 	- x1 Raspberry Pi HAT header with 26 I/Os
 - x4 USB 3.0/2.0 interfaces
 ## Current development flow
-![[Development Flow]]
+![[Development Flow.png]]
 ## Parts to optimize
 - Distance calculation types
 	- Euclidean
