@@ -7,6 +7,7 @@ tags:
 category: Projects
 draft: false
 image: ./Development_Flow.png
+description: A project on FPGA acceleration for AI applications
 ---
 # Abstract
 This is a post to document our project on an FPGA board. We are going to use an FPGA board to accelerate the training of a KNN ML model.<br>
