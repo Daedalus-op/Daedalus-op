@@ -6,7 +6,7 @@ tags:
   - AI
 category: Projects
 draft: false
-image: ./Development\ Flow.png
+image: ./Development_Flow.png
 ---
 # Abstract
 This is a post to document our project on an FPGA board. We are going to use an FPGA board to accelerate the training of a KNN ML model.<br>
@@ -32,8 +32,6 @@ This is a post to document our project on an FPGA board. We are going to use an 
 	- x4 Pmod 12-pin interface
 	- x1 Raspberry Pi HAT header with 26 I/Os
 - x4 USB 3.0/2.0 interfaces
-## Current development flow
-!%% [[Development Flow.png]] %%
 ## Parts to optimize
 - Distance calculation types
 	- Euclidean
