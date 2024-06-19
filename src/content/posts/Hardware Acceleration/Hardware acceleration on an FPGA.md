@@ -9,6 +9,7 @@ draft: false
 image: ./Development_Flow.png
 description: A project on FPGA acceleration for AI applications
 ---
+
 # Abstract
 This is a post to document our project on an FPGA board. We are going to use an FPGA board to accelerate the training of a KNN ML model.<br>
 # Progress
@@ -34,7 +35,7 @@ This is a post to document our project on an FPGA board. We are going to use an 
 	- x1 Raspberry Pi HAT header with 26 I/Os
 - x4 USB 3.0/2.0 interfaces
 ## Development_Flow
-<iframe width="100%" height="468" src="./Development_Flow.png" title="embedded image" allowfullscreen></iframe>
+![Hopefully!!!](./Development_Flow.png)
 
 ## Parts to optimize
 - Distance calculation types
