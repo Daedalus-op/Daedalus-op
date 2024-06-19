@@ -12,7 +12,6 @@ An electronics enthusiast.
 
 - Currently doing a bachelor's degree in electronics and communication.
 - [Personal website](https://daedeleus.vercel.app/)
-- I’m currently open for Internships or a new job opportunity, this is my [Linkedin](https://www.linkedin.com/in/pranav-t-v-739a95270/)
 
 <br><br>
 
@@ -25,31 +24,43 @@ An electronics enthusiast.
 
 - **Languages**:
     
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    - Python
+    - Verilog
+    - Assembly
+    - bash
 
 <br>
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-
+- Workflows
+    - Git
+    - Github
+- EDA
+    - Cadence
+    - Quartus Prime
+    - KiCad 8.0
+- Editors
+    - Neovim
+    - Visual Studio Code
+- OS
+    - Linux
+    	- Ubuntu
+     	- ParrotOS (Novice)
+- Miscellaneous
+    - Matlab
+    - ROS (Novice)
+  
 <br>
 
 - **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-
-
+    - Terminal
+    - Markdown
+  
 </p>
 
 <br>
-
------
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -60,7 +71,7 @@ An electronics enthusiast.
 
 <li>
 <a href="https://www.linkedin.com/in/pranav-t-v-739a95270/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: pranav-t-v-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: PranavTV-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -68,7 +79,7 @@ An electronics enthusiast.
 
 <li>
 <a href="mailto:varkeypranav@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  varkeypranav-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  varkeyPranav-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
