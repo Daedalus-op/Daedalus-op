@@ -33,6 +33,9 @@ This is a post to document our project on an FPGA board. We are going to use an 
 	- x4 Pmod 12-pin interface
 	- x1 Raspberry Pi HAT header with 26 I/Os
 - x4 USB 3.0/2.0 interfaces
+## Development_Flow
+<iframe width="100%" height="468" src="./Development_Flow.png" title="embedded image" allowfullscreen></iframe>
+
 ## Parts to optimize
 - Distance calculation types
 	- Euclidean
