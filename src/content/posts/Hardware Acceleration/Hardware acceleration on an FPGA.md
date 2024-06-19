@@ -6,7 +6,6 @@ tags:
   - AI
 category: Projects
 draft: false
-image: ./Development_Flow.png
 description: A project on FPGA acceleration for AI applications
 ---
 
@@ -61,3 +60,7 @@ This is a post to document our project on an FPGA board. We are going to use an 
 - [Habana Gaudi Intel](https://habana.ai/blogs/explore-hardware-acceleration-for-deep-learning/)
 ### Part 2
 - [Getting started setup](https://github.com/amd/Kria-RoboticsAI)
+
+### Project conducted by 
+- https://github.com/Shrikrishna10
+- https://github.com/daedeleus
