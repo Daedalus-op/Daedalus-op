@@ -11,7 +11,7 @@ An electronics enthusiast.
 <br>
 
 - Currently doing a bachelor's degree in electronics and communication.
-- [Personal website](https://daedeleus.vercel.app/)
+- [Personal website](https://daedaleus.vercel.app/)
 - I’m currently open for Internships or a new job opportunity, this is my [Linkedin](https://www.linkedin.com/in/pranav-t-v-739a95270/)
 
 <br><br>
