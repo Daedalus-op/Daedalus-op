@@ -5,19 +5,18 @@ tags:
   - FPGA
   - AI
 category: Projects
-draft: false
+draft: true
 description: A project on FPGA acceleration for AI applications
 ---
-
 # Abstract
 This is a post to document our project on an FPGA board. We are going to use an FPGA board to accelerate the training of a KNN ML model.<br>
 # Progress
 1. [ ] Research
-	- [ ] KRIA KR260 Robotics Starter Kit
+	- [x] KRIA KR260 Robotics Starter Kit
 	- [ ] hls4ml python package
 	- [ ] QKeras (supported by hls4ml)
-	- [ ] Under the working of KNNs
-	- [ ] Parts for optimization in a KNN model
+	- [x] Under the hood working of KNNs
+	- [x] Parts for optimization in a KNN model
 2. [ ] Coding
 3. [ ] Testing
 4. [ ] Application
@@ -33,7 +32,7 @@ This is a post to document our project on an FPGA board. We are going to use an 
 	- x4 Pmod 12-pin interface
 	- x1 Raspberry Pi HAT header with 26 I/Os
 - x4 USB 3.0/2.0 interfaces
-## Development_Flow
+## Current development flow
 ![Hopefully!!!](./Development_Flow.png)
 
 ## Parts to optimize
@@ -60,7 +59,3 @@ This is a post to document our project on an FPGA board. We are going to use an 
 - [Habana Gaudi Intel](https://habana.ai/blogs/explore-hardware-acceleration-for-deep-learning/)
 ### Part 2
 - [Getting started setup](https://github.com/amd/Kria-RoboticsAI)
-
-### Project conducted by 
-- https://github.com/Shrikrishna10
-- https://github.com/daedeleus
