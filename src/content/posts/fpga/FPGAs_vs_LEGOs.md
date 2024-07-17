@@ -38,7 +38,7 @@ This level of programmability allows anyone with sufficient knowledge and patien
 Now let's talk about how we assemble these LUTs. Unlike a the physical bricks of LEGO, which we can put together with our hands, we need to use specialized EDA (Electronic Design Automation) tools to do this for us. Enter Vivado.
 </p>
 
-![Development Flows](Xilinx_Development_Flow.png)
+![Development Flows](./Xilinx_Development_Flow.png)
 ### Starting up Vivado
 1. To start Vivado type the following by replacing install_path and version
 	```sh
